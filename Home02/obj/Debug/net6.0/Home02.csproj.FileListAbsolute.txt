@@ -1,0 +1,15 @@
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\bin\Debug\net6.0\Home02.exe
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\bin\Debug\net6.0\Home02.deps.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\bin\Debug\net6.0\Home02.runtimeconfig.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\bin\Debug\net6.0\Home02.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\bin\Debug\net6.0\Home02.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.csproj.AssemblyReference.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.AssemblyInfoInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.AssemblyInfo.cs
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.csproj.CoreCompileInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\refint\Home02.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\Home02.genruntimeconfig.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\HomeWork.1.Zanytie\Home02\obj\Debug\net6.0\ref\Home02.dll
